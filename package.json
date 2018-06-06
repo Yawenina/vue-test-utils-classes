@@ -2,7 +2,7 @@
   "name": "vue-test-utils-classes",
   "version": "0.1.0",
   "private": true,
-  "main": "./src/main.ts",
+  "main": "src/main.ts",
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
